@@ -42,5 +42,5 @@ Python • FastAPI • SQLAlchemy • PostgreSQL • Docker • Linux • Nginx 
 
 ## Contact
 
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/ahmed-samir-2009b566/)
+[Email] (ahmedsamirhefny@hotmail.com)
