@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ahmed Samir 👋
+
+Senior Python Backend Engineer from Egypt 🇪🇬
+
+## About Me
+
+- 💻 Python Backend Developer
+- ⚡ FastAPI Specialist
+- 🐳 Docker
+- 🐧 Linux
+- 🗄 PostgreSQL
+- 🔄 CI/CD
+- 🚀 REST APIs
+
+## Tech Stack
+
+Python • FastAPI • SQLAlchemy • PostgreSQL • Docker • Linux • Nginx • GitHub Actions
+
+## Featured Projects
+
+- ERP System
+- Inventory Management
+- Trading Automation Platform
+- Clinic Management System
+
+## Contact
+
+LinkedIn
+Email
