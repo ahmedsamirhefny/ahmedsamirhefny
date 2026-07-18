@@ -21,24 +21,59 @@ Senior Python Software Engineer | AI & ML Engineering from Egypt 🇪🇬
 
 ## About Me
 
-- 💻 Python Backend Developer
-- ⚡ FastAPI Specialist
+Python Software Engineer passionate about building scalable backend systems, AI-powered applications, and intelligent automation platforms.
+
+Currently building **KEMET**, an open-source Finance Intelligence Platform based on a Multi-Agent AI Architecture.
+
+I enjoy designing clean architectures, solving complex engineering problems, and transforming ideas into production-ready software.
+
+---
+
+## Core Expertise
+
+- 🐍 Python
+- ⚡ FastAPI & Flet
+- 🤖 AI & LLM Applications
+- 🧠 Multi-Agent Systems
 - 🐳 Docker
 - 🐧 Linux
 - 🗄 PostgreSQL
-- 🔄 CI/CD
-- 🚀 REST APIs
+- 🔄 GitHub Actions & CI/CD
+- 🌐 REST APIs
+- 🏗 Software Architecture
+
+---
 
 ## Tech Stack
 
-Python • FastAPI • SQLAlchemy • PostgreSQL • Docker • Linux • Nginx • GitHub Actions
+Python • FastAPI • Flet • SQLAlchemy • PostgreSQL • Docker • Linux • Git • GitHub Actions • Nginx • Pytest
+
+---
+
+## Current Focus
+
+- 🚀 Building KEMET (Finance Intelligence Platform)
+- 🤖 Multi-Agent AI Systems
+- 📊 Machine Learning Pipelines
+- 🧠 LLM Engineering
+- ⚙️ Clean Architecture
+- ☁️ Cloud & DevOps
+
+---
 
 ## Featured Projects
 
-- ERP System
-- Inventory Management
-- Trading Automation Platform
-- Clinic Management System
+- 🏛 KEMET — Finance Intelligence Platform *(In Progress)*
+- 📦 ERP System
+- 🏪 Inventory Management System
+- 🤖 Trading Automation Platform
+- 🏥 Clinic Management System
+
+---
+
+## Philosophy
+
+> "Good software is not just code. It's architecture, documentation, automation, testing, and continuous improvement."
 
 ## Contact
 
