@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ahmed Samir 👋
 
-Senior Python Backend Engineer from Egypt 🇪🇬
+Senior Python Software Engineer | AI & ML Engineering from Egypt 🇪🇬
 
 ## About Me
 
